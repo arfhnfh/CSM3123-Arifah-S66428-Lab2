@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main App Theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryDark">#3700B3</item>
+        <item name="colorAccent">#03DAC5</item>
+    </style>
+
+    <!-- Custom style for TabLayout -->
+    <style name="CustomTabLayout" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabIndicatorColor">#FF0000</item>
+        <item name="tabSelectedTextColor">#FF0000</item>
+        <item name="tabTextColor">#808080</item>
+    </style>
+</resources>
